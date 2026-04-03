@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion'
 import { useState, useRef, useEffect } from 'react'
-import { FaTimes, FaPlay, FaAtom } from 'react-icons/fa'
+import { FaTimes,  FaAtom } from 'react-icons/fa'
 import FloatingBubbles from '../FloatingBubbles'
 
 // 🔬 Animations
