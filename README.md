@@ -14,7 +14,7 @@ Preparation of Biodiesel using Ultrasonic Cavitation Technology with interactive
 - Framer Motion
 
 ## 🌐 Live Demo
-(Will add after deployment)
+https://ultrasonic-biodiesel-production.vercel.app/
 
 ## 📌 Author
 Avinash Singh
